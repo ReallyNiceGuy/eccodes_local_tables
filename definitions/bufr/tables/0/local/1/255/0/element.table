@@ -1,0 +1,13 @@
+021036|entry021036|double|Radar rainfall intensity|MM*H-1|1|0|12|MM*H-1|1|2
+029002|entry029002|long|Co-ordinate grid type|CODE-TABLE|0|0|2|CODE-TABLE|0|1
+029192|entry029192|long|Type of rotation ellipsoid|CODE-TABLE|0|0|3|CODE-TABLE|0|1
+029193|entry029193|double|Long Origin|DEGREE|2|-18000|16|DEGREE|2|2
+029194|entry029194|double|Lat Origin|DEGREE|2|-9000|15|DEGREE|2|2
+029195|entry029195|long|False Easting|METERS|0|0|26|METERS|0|4
+029196|entry029196|long|False Northing|METERS|0|0|26|METERS|0|4
+029197|entry029197|double|Standard parallel 1|DEGREE|2|-9000|15|DEGREE|2|2
+029198|entry029198|double|Standard parallel 2|DEGREE|2|-9000|15|DEGREE|2|2
+029199|entry029199|long|Semi-major axis of rotation ellipsoid|METERS|0|0|26|METERS|0|4
+029200|entry029200|long|Semi-minor axis of rotation ellipsoid|METERS|0|0|26|METERS|0|4
+030192|entry030192|long|North south view organisation|CODE-TABLE|0|0|3|CODE-TABLE|0|1
+030193|entry030193|long|East west view organisation|CODE-TABLE|0|0|3|CODE-TABLE|0|1

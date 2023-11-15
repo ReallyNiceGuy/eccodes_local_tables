@@ -1,0 +1,9 @@
+0 0 Nominal
+1 1 The cloud system was first detected in a satellite image received just after a missing image
+2 2 A sequence of consecutive missing images, longer than 1h30 and shorter than 2h30, took place during the tracking of the cloud system, the tracking "over crossed" this sequence of non-available images because the size of the cloud system just before it was larger than 7000 km**2
+3 3 The spatial quality indicator of the cloud system was not nominal in at least one image
+4 4 Both (1 and 2)
+5 5 Both (1 and 3)
+6 6 Both (2 and 3)
+7 7 1, 2 and 3
+15 15 VALEUR MANQUANTE

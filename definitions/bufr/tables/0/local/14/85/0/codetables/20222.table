@@ -1,0 +1,39 @@
+0 0 Soleil (0, 1 ou 2 octas)
+1 1 Voile
+2 2 Peu nuageux (3 ou 4 octas)
+3 3 Traine
+4 4 Tres nuageux (5 ou 6 octas)
+5 5 Couvert (7 ou 8 octas)
+6 6 Nuages sur le relief, soleil predominant en vallee
+7 7 Mer de nuages
+8 8 Bancs de brouillard en plaine
+9 9 Brume ou brouillard peu dense
+10 10 Brouillard dense
+11 11 Brume ou brouillard givrant peu dense
+12 12 Brouillard givrant dense
+13 13 Bruine
+14 14 Bruine ou pluie verglacantes
+15 15 Pluie faible
+16 16 Pluie moderee
+17 17 Pluie forte
+18 18 Pluie localement orageuse
+19 19 Neige faible
+20 20 Pluie et neige melee
+21 21 Neige collante
+22 22 Neige moderee
+23 23 Neige forte
+24 24 Rares averses de pluie
+25 25 Averses de pluie
+26 26 Averses sur le relief
+27 27 Averses de pluie et neige melee
+28 28 Rares averses de neige
+29 29 Averses de neige
+30 30 Averses localement orageuses
+31 31 Averses de grele
+32 32 Risque d'orages
+33 33 Orages sur le relief
+34 34 Orages
+35 35 Risque de violents orages
+36 36 Violents orages
+37 37 Tempete de sable
+63 63 VALEUR MANQUANTE

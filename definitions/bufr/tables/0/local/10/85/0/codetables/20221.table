@@ -1,0 +1,23 @@
+0 0 Ensoleille (n=0,1,2)
+1 1 Ciel voile (nbas<3 et nhaut>6)
+2 2 Des nuages se developpent l'apres-midi (echeance 12 uniquement)
+3 3 Soleil et nuages (n=3,4,5)
+4 4 Ciel tres variable (ou traine)
+5 5 Nuages predominants (n=6,7,8)
+6 6 Si < LPN: Couvert et gris, avec gouttes possibles; Si > LPN: Couvert et gris, avec flocons de neige possibles
+7 7 Brume ou bancs de brouillard
+8 8 Brouillard
+9 9 Brouillard givrant
+10 10 Si < LPN: Bruine; Si > LPN: Neige fine
+11 11 Si < LPN: Pluie; Si > LPN: Neige
+12 12 Si < LPN: Pluie; Si > LPN: Neige abondante
+13 13 Si < LPN: Des nuages se developpent l'apres-midi, avec averses possibles (echeance 12 uniquement); Si > LPN: Des nuages se developpent l'apres-midi, avec averses de neige possibles (echeance 12 uniquement)
+14 14 Si < LPN: Rares averses; Si > LPN: Rares averses de neige
+15 15 Si < LPN: Averses; Si > LPN: Averses de neige
+16 16 Pluie, risque de neige, voire de verglas (perturbation hivernale avec crainte quant a la qualite des precipitations)
+17 17 Neige (en mode plaine : LPN=PL)
+18 18 Si < LPN: Des nuages se developpent l'apres-midi, avec evolution orageuse possible (echeance 12 uniquement); Si > LPN: Des nuages se developpent l'apres-midi, avec evolution orageuse (neige) possible (echeance 12 uniquement)
+19 19 Si < LPN: Pluie, orages possibles; Si > LPN: Neige, orages possibles
+20 20 Si < LPN: Orages possibles; Si > LPN: Orages de neige possibles
+21 21 Si < LPN: Orages probables; Si > LPN: Orages de neige probables
+31 31 VALEUR MANQUANTE

@@ -1,0 +1,4 @@
+0 0 Bon (Si 0 02 194 = 0)
+1 1 Le dernier etalonnage n'a pas eu lieu (si 0 02 194 = 6,7,8 ou 9)
+2 2 Etalonnage incorrect (si 0 02 194 = 1,2,3,4 ou 5)
+15 15 Valeur manquante

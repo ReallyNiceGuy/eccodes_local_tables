@@ -1,0 +1,40 @@
+001192|entry001192|string|Type of station identifier|CCITT IA5|0|0|24|CCITT IA5|0|3
+001193|entry001193|string|Station identifier|CCITT IA5|0|0|128|CCITT IA5|0|16
+002181|entry002181|long|Supplementary present weather sensor|FLAG-TABLE|0|0|21|FLAG-TABLE|0|3
+002193|entry002193|long|Antenna rotation direction|CODE-TABLE|0|0|2|CODE-TABLE|0|1
+007192|entry007192|long|Pixel size in Z-direction|METERS|-1|0|16|METERS|-1|2
+021036|entry021036|double|Radar rainfall intensity|MM*H-1|2|0|16|MM*H-1|2|2
+021198|entry021198|double|dBZ-value offset (Alpha)|DBZ|2|-6400|14|DBZ|2|2
+021199|entry021199|double|dBZ-value increment (Beta)|DBZ|1|0|7|DBZ|1|1
+021200|entry021200|long|Height of CAPPI|M|0|-1000|15|M|0|2
+021201|entry021201|long|Range-bin size|METER|0|0|14|METER|0|2
+021202|entry021202|double|Azimuthal resolution|DEGREE|1|0|8|DEGREE|1|1
+021203|entry021203|long|Range-bin offset|METER|-1|0|14|METER|-1|2
+021204|entry021204|double|Azimuth offset|DEGREE|1|0|12|DEGREE|1|2
+021205|entry021205|double|V-value offset (av)|M/S|2|-16384|15|M/S|2|2
+021206|entry021206|double|V-value increment (bv)|M/S|2|0|8|M/S|2|1
+021207|entry021207|double|W-value offset (aw)|M/S|2|0|14|M/S|2|2
+021208|entry021208|double|W-value increment (bw)|M/S|2|0|8|M/S|2|1
+025192|entry025192|long|Accumulation method|CODE-TABLE|0|0|8|CODE-TABLE|0|1
+025193|entry025193|double|Adjustment factor|NUMERIC|2|0|10|NUMERIC|2|2
+029192|entry029192|long|Type of rotation ellipsoid|CODE-TABLE|0|0|3|CODE-TABLE|0|1
+029193|entry029193|double|Long Origin|DEGREE|2|-18000|16|DEGREE|2|2
+029194|entry029194|double|Lat Origin|DEGREE|2|-9000|15|DEGREE|2|2
+029195|entry029195|long|X-Offset|METERS|0|-33554432|26|METERS|0|4
+029196|entry029196|long|Y-Offset|METERS|0|-33554432|26|METERS|0|4
+029197|entry029197|double|Standard parallel 1|DEGREE|2|-9000|15|DEGREE|2|2
+029198|entry029198|double|Standard parallel 2|DEGREE|2|-9000|15|DEGREE|2|2
+029199|entry029199|long|Semi-major axis of rotation ellipsoid|METERS|0|0|26|METERS|0|4
+029200|entry029200|long|Semi-minor axis of rotation ellipsoid|METERS|0|0|26|METERS|0|4
+029201|entry029201|long|Projection type|CODE-TABLE|0|0|5|CODE-TABLE|0|1
+029202|entry029202|double|Azimuth of initial line|DEGREE|2|-9000|15|DEGREE|2|2
+029203|entry029203|double|Long Origin|DEGREE|5|-18000000|26|DEGREE|5|4
+029204|entry029204|double|Lat Origin|DEGREE|5|-9000000|25|DEGREE|5|4
+029205|entry029205|string|Geographic projection as PROJ initialization string|CCITT IA5|0|0|800|CCITT IA5|0|100
+030192|entry030192|long|North south view organisation|CODE-TABLE|0|0|3|CODE-TABLE|0|1
+030193|entry030193|long|East west view organisation|CODE-TABLE|0|0|3|CODE-TABLE|0|1
+030194|entry030194|long|Number of bins along the radial|NUMERIC|0|0|12|NUMERIC|0|2
+030195|entry030195|long|Number of azimuths|NUMERIC|0|0|11|NUMERIC|0|2
+030196|entry030196|long|Type of product|CODE-TABLE|0|0|8|CODE-TABLE|0|1
+030197|entry030197|long|Compression method|CODE-TABLE|0|0|8|CODE-TABLE|0|1
+030198|entry030198|long|Byte element of a compressed array|NUMERIC|0|0|8|NUMERIC|0|1

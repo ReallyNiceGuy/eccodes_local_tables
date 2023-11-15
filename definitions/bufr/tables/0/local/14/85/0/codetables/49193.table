@@ -1,0 +1,4 @@
+0 0 Bon (Si 0 02 198 = 0)
+1 1 Douteux (si 0 02 198 = 2 ou 10)
+2 2 A rejeter (si 0 02 198 = 1 ou 11)
+15 15 Valeur manquante

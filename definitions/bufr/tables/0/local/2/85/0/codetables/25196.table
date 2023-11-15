@@ -1,0 +1,4 @@
+0 0 Cumul simple
+1 1 Cumul avec advection y compris sur echos fixes
+2 2 Cumul avec advection hors echos fixes
+255 255 Valeur manquante
